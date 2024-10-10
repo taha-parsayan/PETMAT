@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "PETMAT"
+authors:
+  - family-names: "Parsayan"
+    given-names: "Mohammadtaha"
+    #orcid: "0000-0000-0000-0000"
+date-released: 2024-10-01
+version: "v2024-10"
+#doi: "10.xxxx/your-doi"
+url: "https://github.com.mcas.ms/taha-parsayan/PETMAT"
+repository-code: "https://github.com.mcas.ms/taha-parsayan/PETMAT"
+keywords: 
+  - PET
+  - MATLAB
+  - Neuroimaging
+license: SPM  # Or whichever license you choose
