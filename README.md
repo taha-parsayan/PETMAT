@@ -2,6 +2,9 @@
 
 **PETMAT** is a MATLAB-based app designed to facilitate the preprocessing of Positron Emission Tomography (PET) images using the Statistical Parametric Mapping (SPM) toolbox. The app supports operations like smoothing, co-registration, and normalization of PET images and provides an intuitive interface to work with multiple subject datasets. 
 
+![Toolbox](https://github.com/user-attachments/assets/89d34f3f-4425-418e-9d68-260dcc660526)
+![pipeline](https://github.com/user-attachments/assets/3eaf19bf-1c4c-4b85-8b69-b028a09a1275)
+
 ## Features
 
 - **Smoothing**: Option to smooth the PET images with different Full Width Half Maximum (FWHM) kernels.
