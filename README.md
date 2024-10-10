@@ -1,5 +1,11 @@
 # PETMAT: PET Image Preprocessing in MATLAB
 
+![GitHub release (latest by tag)](https://img.shields.io/github/v/tag/taha-parsayan/PETMAT?label=Release)
+![Static Badge](https://img.shields.io/badge/Neuroimaging%20software-FF0000)
+![Static Badge](https://img.shields.io/badge/MATLAB-8A2BE2)
+![Static Badge](https://img.shields.io/badge/SPM-8A2BE2)
+![Static Badge](https://img.shields.io/badge/PET%20/%20MRI-4CAF50)
+
 **PETMAT** is a MATLAB-based app designed to facilitate the preprocessing of Positron Emission Tomography (PET) images using the Statistical Parametric Mapping (SPM) toolbox. The app supports operations like smoothing, co-registration, and normalization of PET images and provides an intuitive interface to work with multiple subject datasets. 
 
 ![Toolbox](https://github.com/user-attachments/assets/89d34f3f-4425-418e-9d68-260dcc660526)
