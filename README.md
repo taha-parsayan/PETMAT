@@ -75,3 +75,9 @@ Contributions are welcome! If you encounter any bugs or have feature suggestions
 ## Acknowledgments
 
 This app utilizes the SPM toolbox, developed by the Wellcome Centre for Human Neuroimaging. For more information, visit the [SPM website](https://www.fil.ion.ucl.ac.uk/spm/).
+
+## Citation
+
+If you use this tool in your work, please cite it as:
+
+Mohammadtaha Parsayan, Poul Flemming Høilund-Carlsen, Farzin Kamari, Abass Alavi, Sasan Andalib. PETMAT: A MATLAB-based PET Image Processing Tool. Version 2024-10. [cited (date)] . Available at: https://github.com.mcas.ms/taha-parsayan/PETMAT.
