@@ -1,6 +1,6 @@
 # PETMAT: PET Image Preprocessing in MATLAB
 
-![GitHub release (latest by tag)](https://img.shields.io/github/v/tag/taha-parsayan/PETMAT?label=Release)
+![GitHub release (latest by tag)](https://img.shields.io/github/v/tag/taha-parsayan/PETMAT?label=Release) 
 ![Static Badge](https://img.shields.io/badge/Neuroimaging%20software-FF0000)
 ![Static Badge](https://img.shields.io/badge/MATLAB-8A2BE2)
 ![Static Badge](https://img.shields.io/badge/SPM-8A2BE2)
